@@ -1,1 +1,1 @@
-# cProfileContextMnager_snippet
+# cProfileContextManager_snippet
